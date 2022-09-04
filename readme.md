@@ -17,8 +17,7 @@
 
 - How to achieve any position for any element using `flex-box`
 - How to achieve semi-rounded buttons using `border-radius`
-- CSS (positions, flex, border-radius)
-- Time Consumed to make this page 150 Minutes
+- Time Consumed to make this page **2 Hours 30 Minutes**
 - Preview
   ![preview](./thumbnail.png)
 
